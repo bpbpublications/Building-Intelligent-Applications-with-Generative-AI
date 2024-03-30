@@ -1,0 +1,57 @@
+{
+    "Tyrannosaurus rex": {
+        "name": "Tyrannosaurus rex",
+        "category": "Theropods",
+        "features": ["Large, sharp teeth", "Powerful jaws", "Bony skull"],
+        "description": "A fearsome predator with a massive bite force.",
+        "habitat": "North America",
+        "period": "Cretaceous",
+        "size": "12 feet long, 4 feet tall, 6 tons",
+        "diet": "Meat",
+        "fun_fact": "Tyrannosaurus rex is the largest land carnivore ever to walk the Earth."
+    },
+    "Velociraptor": {
+        "name": "Velociraptor",
+        "category": "Theropods",
+        "features": ["Sharp claws", "Agile body", "Pack hunter"],
+        "description": "A small but deadly predator that hunted in packs.",
+        "habitat": "Mongolia",
+        "period": "Cretaceous",
+        "size": "6 feet long, 2 feet tall, 50 pounds",
+        "diet": "Meat",
+        "fun_fact": "Velociraptors are often depicted as being much larger than they actually were in popular culture."
+    },
+    "Triceratops": {
+        "name": "Triceratops",
+        "category": "Ceratopsians",
+        "features": ["Three horns", "Bony frill", "Herbivore"],
+        "description": "A large, armored dinosaur with a distinctive frill and three horns.",
+        "habitat": "North America",
+        "period": "Cretaceous",
+        "size": "9 feet long, 6 feet tall, 6 tons",
+        "diet": "Plants",
+        "fun_fact": "Triceratops is one of the most recognizable dinosaurs in the world."
+    },
+    "Stegosaurus": {
+        "name": "Stegosaurus",
+        "category": "Ornithopods",
+        "features": ["Bony plates", "Spiked tail", "Herbivore"],
+        "description": "A large, armored dinosaur with bony plates on its back and a spiked tail.",
+        "habitat": "North America, Europe, Asia",
+        "period": "Jurassic",
+        "size": "30 feet long, 10 feet tall, 2 tons",
+        "diet": "Plants",
+        "fun_fact": "Stegosaurus had a small brain for its size."
+    },
+    "Brachiosaurus": {
+        "name": "Brachiosaurus",
+        "category": "Sauropods",
+        "features": ["Long neck", "Long tail", "Herbivore"],
+        "description": "A giant dinosaur with a long neck and long tail.",
+        "habitat": "Africa, North America, South America",
+        "period": "Jurassic",
+        "size": "80 feet long, 40 feet tall, 100 tons",
+        "diet": "Plants",
+        "fun_fact": "Brachiosaurus was the tallest dinosaur ever to walk the Earth."
+    }
+}
